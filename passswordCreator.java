@@ -20,7 +20,7 @@ public class passswordCreator {
                     + "be under 30: ");
 
             int value = input.nextInt();
-            String store = "1";
+            String store = "";
             String numberOfCharacter = "";
 
             if (value > 0 && value <= 30) {
